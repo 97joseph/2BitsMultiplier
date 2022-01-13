@@ -56,6 +56,8 @@ As the number of bits increases, we keep shifting each successive partial produc
 
 Based on the above equation, we can see that we need four AND gates and two half adders to design the combinational circuit for the multiplier. The AND gates will perform the multiplication, and the half adders will add the partial product terms. Hence the circuit obtained is as follows.
 
+Problem Design
+
 ![Alt text](Multiplication1.png?raw=true "Start Page")
 
 Circuit Design for Adder Balancing
